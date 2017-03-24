@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\60_android\05_workspace\Elephant\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\USER\60_android\05_workspace\Elephant\app\build\intermediates\pre-dexed\debug\classes-53d97fec2acc162fee6ea30626b46862b69b6bc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\USER\60_android\05_workspace\Elephant\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-437282f4ded7d7b80fdd137af923779c11cbf827.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\60_android\05_workspace\Elephant\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\USER\60_android\05_workspace\Elephant\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e4369bc7390a25fb17ad3b01376a009a81bb0f1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\60_android\05_workspace\Elephant\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\USER\60_android\05_workspace\Elephant\app\build\intermediates\pre-dexed\debug\classes-aa0f6216f0b8445b68e31e39630d4165911bbae3.jar" />
+    </item>
+
+</items>
